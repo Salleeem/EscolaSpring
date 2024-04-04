@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import com.webapp.escolaSpring.Model.Administrador;
 import com.webapp.escolaSpring.Repository.AdministradorRepository;
 import com.webapp.escolaSpring.Repository.VerificaCadastroAdmRepository;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
